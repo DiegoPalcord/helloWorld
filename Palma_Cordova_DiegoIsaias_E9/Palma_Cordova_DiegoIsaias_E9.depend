@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1652846778 source:d:\documentos\udg_inni\segundo semestre\estructuras de datos i\palma_cordova_diegoisaias_e9\album.cpp
+	"album.h"
+
+1652846767 d:\documentos\udg_inni\segundo semestre\estructuras de datos i\palma_cordova_diegoisaias_e9\album.h
+	<string>
+
+1653169528 source:d:\documentos\udg_inni\segundo semestre\estructuras de datos i\palma_cordova_diegoisaias_e9\main.cpp
+	<iostream>
+	<iomanip>
+	<ios>
+	<stdlib.h>
+	<clocale>
+	"queue.h"
+	"album.h"
+
+1650477978 d:\documentos\udg_inni\segundo semestre\estructuras de datos i\palma_cordova_diegoisaias_e9\queue.h
+	<exception>
+	<string>
+
